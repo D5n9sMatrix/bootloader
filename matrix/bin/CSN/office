@@ -1,0 +1,6 @@
+#!/bin/bash
+# CSN
+# A Card Select Number is a number that uniquely identifies a PnP ISA card and is used
+# to communicate exclusively to that card. The CSN is assigned by the PnP BIOS to
+# each PnP ISA card in the system
+CSN=/PnP/

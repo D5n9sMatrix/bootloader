@@ -1,0 +1,6 @@
+#!/bin/sh
+# POST
+# The Power-On Self Test is the part of the BIOS that takes control immediately after the
+# computer is turned on. POST initializes the computer hardware so that an O/S can be
+# loaded
+POST=/fake/

@@ -1,0 +1,31 @@
+/* XPM */
+static char *prjfolder_xpm[] = {
+/* width height num_colors chars_per_pixel */
+"    16    16        8            1",
+/* colors */
+"` c #545654",
+". c #c4c6c4",
+"# c #7c7e7c",
+"a c #7c7a7c",
+"b c None",
+"c c #9ca09c",
+"d c #d4d2d4",
+"e c #5c5e5c",
+/* pixels */
+"bbbbb```````````",
+"bbbb````````````",
+"bbb`edddddddde``",
+"bb`edddddddde```",
+"b````````````#``",
+"b```````````a.``",
+"b``.......``..``",
+"b``.......``..``",
+"b``.......``..``",
+"b``.......``..``",
+"b``.......``.c``",
+"b``.......``c``b",
+"b``.......````bb",
+"b````````````bbb",
+"b```````````bbbb",
+"bbbbbbbbbbbbbbbb"
+};

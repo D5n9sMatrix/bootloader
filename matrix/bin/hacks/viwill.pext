@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# vi filename
+# where filename is the name of the file. I have called my file myfile. On
+# pressing the enter key, the vi editor will be opened. Now you can add some
+# text of your choice to the file. Note that to change from command mode in
+# vi editor, you have to press the letter i, otherwise, you will not be able to
+# add any text to the file.
+command -p "vi"

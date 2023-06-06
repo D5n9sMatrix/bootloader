@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/Projects/bootloader/matrix/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/bootloader.dir/bootloader.cpp.o -c /home/denis/Projects/bootloader/matrix/bootloader.cpp",
+  "file": "/home/denis/Projects/bootloader/matrix/bootloader.cpp"
+}
+]

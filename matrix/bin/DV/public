@@ -1,0 +1,7 @@
+#!/bin/bash
+# DV
+# A Disconnect Vector is a pointer that points to code inside the option ROM that will
+# perform clean-up after the Boot Connection Vector has already been called. The DV
+# resides in a PnP option ROM Expansion Header. An example of an option ROM with
+# a DV is a PnP ISA SCSI controller.
+DV=/ROM/

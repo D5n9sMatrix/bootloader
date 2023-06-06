@@ -1,0 +1,5 @@
+#!/bin/bash
+# PnP Cards
+# PnP Cards consist of any cards that contain an option ROM with a PnP Expansion
+# Header.
+PnP=/Cards/drop/founds

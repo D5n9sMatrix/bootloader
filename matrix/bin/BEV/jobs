@@ -1,0 +1,6 @@
+#!/bin/sh
+# BEV
+# A Bootstrap Entry Vector is a pointer that points to code inside an option ROM that
+# will directly load an O/S. The BEV resides in a PnP option ROM Expansion Header.
+# An example of an option ROM with a BEV is a PnP ISA ethernet controller.
+BEV=/bootstrap/

@@ -1,0 +1,6 @@
+#!/bin/bash
+# BAID
+# A BIOS Aware IPL Device is any device that can boot an O/S, but requires the BIOS
+# to have specific code to support it. Some examples are: the first floppy drive, the first
+# hard drive, ATAPI CD-ROM, PCMCIA, embedded network adapter, etc.
+BAID=/matrix/

@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# Chapter 2- Linux Command Line
+# Commands
+# Let us explore the Linux commands ranging from the basic ones
+# which are necessary for you to begin to the complex ones. To open the
+# command line, right click on your Desktop and select “Open Terminal”. If
+# this is not available, find Applications at the top of your desktop. After
+# clicking on this, select Accessories. Choose “Open terminal”. Open a text
+# editor of your choice such as Gedit or Vim. To open the Gedit text editor,
+# just search for it from the search bar. Type “text editor” on this search bar
+# and you will find it. To open Vim, commonly known as vi editor, on the
+# command line, type the command:
+which bootlocal

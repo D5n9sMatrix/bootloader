@@ -1,0 +1,5 @@
+#!/bin/bash
+# O/S
+# An Operating System is loaded from an IPL device when that device is selected for
+# booting.
+IPL=/O/S

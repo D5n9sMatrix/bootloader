@@ -1,0 +1,6 @@
+#!/bin/sh
+dialog --begin 0 1
+exit 0
+
+
+

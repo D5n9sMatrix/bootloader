@@ -1,0 +1,6 @@
+#!/bin/bash
+# 8
+# PFA
+# A PCI Function Address is a unique number assigned to a PCI function on a PCI
+# device. The PFA consists of a function number, a device number, and a bus number.
+PFA=/PCI/

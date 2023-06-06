@@ -1,0 +1,5 @@
+#!/bin/bash
+# Legacy Card
+# A Legacy Card is a standard ISA card that contains no PnP compatible configurability,
+# and no PnP Expansion Header.
+LegacyCard=/PnP/

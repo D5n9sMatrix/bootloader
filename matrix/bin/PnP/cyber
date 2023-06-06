@@ -1,0 +1,6 @@
+#!/bin/bash
+# PnP
+# Plug and Play is a term used to identify anything defined by the Plug and Play BIOS
+# specification or the Plug and Play ISA specification. The term will typically be used
+# to reference some device or behavior that is specific to PnP technology.
+PnP=/input/

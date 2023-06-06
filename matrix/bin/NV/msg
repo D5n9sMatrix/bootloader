@@ -1,0 +1,6 @@
+#!/bin/bash
+# NV
+# Non-Volatile memory is memory that is retained even when the power has been shut
+# off. The most common type of NV memory on a PC is the CMOS RAM that is used
+# to store system configuration information.
+NV=/msg/

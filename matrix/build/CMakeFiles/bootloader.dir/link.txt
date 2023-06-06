@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbootloader.a CMakeFiles/bootloader.dir/bootloader.cpp.o
+/usr/bin/ranlib libbootloader.a

@@ -1,0 +1,31 @@
+/* XPM */
+static char *findfiles_xpm[] = {
+/* width height num_colors chars_per_pixel */
+"    16    16        8            1",
+/* colors */
+"` c None",
+". c #4c4e4c",
+"# c #545e54",
+"a c #545654",
+"b c #646664",
+"c c #545254",
+"d c #5c5e5c",
+"e c #545a54",
+/* pixels */
+"````````````````",
+"``````aaaae`````",
+"`````aaedaae````",
+"`````ae```ee````",
+"`aaabaa```.abaa`",
+"`aaaaaa```eaaaa`",
+"`aaaeaaeaaaaaaa`",
+"`aac``eeaaaae```",
+"`aa````````ea```",
+"`aa`aaaaaaaa``a`",
+"`aa`aaaaaaaaaaa`",
+"`aa`aaaaaaaaaaa`",
+"`aaeaaaaaaaaaaa`",
+"`aaaaaaaaaaaaa#`",
+"`aaaaaaaaaaaaa``",
+"````````````````"
+};

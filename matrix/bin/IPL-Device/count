@@ -1,0 +1,5 @@
+#!/bin/sh
+# IPL Device
+# An Initial Program Load Device is any device in the system that can boot and load an
+# O/S. In standard AT machines, this is the floppy drive or hard drive.
+IPLDevice=/O/S/

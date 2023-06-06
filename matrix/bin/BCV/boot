@@ -1,0 +1,8 @@
+#!/bin/sh
+# BCV
+# A Boot Connection Vector is a pointer that points to code inside the option ROM that
+# will perform device initialization, detect if a peripheral (such as a SCSI hard drive) is
+# attached, and optionally hook INT 13h. The BCV resides in a PnP option ROM
+# Expansion Header. An example of an option ROM with a BCV is a PnP ISA SCSI
+# controller
+BCV=/boot/

@@ -1,0 +1,6 @@
+#!/bin/sh
+# Setup
+# The system Setup program is the part of the BIOS that is executed after a user
+# specified <Hot Key> is pressed during the BIOS initialization. Setup allows the user
+# to set up and configure the system as well as select the IPL Priority of the system.
+Setup=/IPL/

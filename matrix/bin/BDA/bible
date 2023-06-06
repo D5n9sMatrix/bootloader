@@ -1,0 +1,5 @@
+#!/bin/sh
+# BDA
+# The BIOS Data Area is a data storage area in RAM. The BDA is used by the BIOS to
+# manage the various peripherals and resources in the system. The BDA starts at
+# segment address 0040h.

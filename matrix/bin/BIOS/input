@@ -1,0 +1,7 @@
+#!/bin/sh
+# BIOS
+# The Basic Input/Output System is the software embedded on a chip located on the
+# computer’s main board. The BIOS executes POST to test and initialize the system
+# components and then loads (boots) the O/S. The BIOS also handles the low-level
+# input/output to the various peripheral devices connected to the computer
+BIOS=/input/

@@ -1,0 +1,31 @@
+/* XPM */
+static char *openfile_xpm[] = {
+/* width height num_colors chars_per_pixel */
+"    16    16        8            1",
+/* colors */
+"` c None",
+". c #545254",
+"# c #545a54",
+"a c #545654",
+"b c #545e54",
+"c c #000000",
+"d c #000000",
+"e c #000000",
+/* pixels */
+"````````````````",
+"````aaaaaaa#````",
+"````aaaaaaaaa```",
+"````aa````aaaa``",
+"````aa````aaaa#`",
+"aaa`aa````aaaaa`",
+"aaa`aa```````aa`",
+"aaa`aa```````aa`",
+"aa.`aa```````aa`",
+"aa``````````````",
+"aa`aaaaaaaaaaaaa",
+"aa`#aaaaaaaaaaaa",
+"aa`aaaaaaaaaaaaa",
+"aa#aaaaaaaaaaaaa",
+"aaaaaaaaaaaaaaab",
+"aaaaaaaaaaaaaaa`"
+};

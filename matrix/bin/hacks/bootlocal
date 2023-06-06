@@ -1,0 +1,109 @@
+#!/bin/bash
+# Introduction
+# Linux is a common operating system for computers, and especially
+# the server computers. The funny thing with it is that people view Linux as a
+# very complex operating system which is not the case. This is why most
+# computer novice users don’t like using Linux on their computers. However,
+# this is not the case. Just like the Windows OS, Linux is an easy-to-use
+# operating system. All one needs to have is interest in learning it. The
+# operating system itself is very secure, meaning that hackers will find it
+# almost impossible to hack into it.
+
+Linux="/root/"
+Server="/var/"
+Like="/home/"
+
+# operating system linux
+if [[ $Linux  ]] 
+then
+      echo "$Linux a common operating system"
+else
+      type -f bash
+fi
+
+Safe="settings"
+Hack="Editors"
+Will="Hackers"
+
+# loader server hackers will page web and programming
+if [[ $Server ]] 
+then
+      echo "$Server hackers will page web and programming"
+else
+      caller -f $Server
+fi
+
+if [[ $Like ]] 
+then
+      echo "$Like loader next or after cal information"
+else
+     echo "id::local"
+fi
+
+# The various distributions of Linux use almost the same commands. These
+# commands can be written using the same syntax and they run successfully
+# on various distributions of Linux. However, some of them will need to be
+# altered slightly so that they can be compatible. You should identify the right
+# distribution for yourself and your computer and install it on your system.
+# The right choice for you in this case will depend on the distribution that you
+# will feel comfortable to work with. Other than installing the operating
+# system directly onto your hard disk, you can choose to run it on virtual box
+# or VMware player. This can help in saving on the available computer space,
+# hence important.
+
+for i in 1 2 3 4 5; do
+    echo "$Safe: $i"
+    dialog --begin 0 1
+done
+
+
+# Chapter 1- Definition
+# Linux is an open-source operating system for computers. It was
+# developed to provide a Unix-like free and open source operating system for
+# computers. The kernel is the main component of Linux operating system
+# and its first version was released in the year 1991 by Linus Torvalds. People
+# rarely use Linux operating system on desktop computers. This operating
+# system has shown a wide use on server computers. The reason is due to its
+# high level of security. For instance, those who have worked with server
+# computers running Linux, you must have realized that the operating system
+# supports no graphics.
+
+printf 'myvar = "Hello, World!" \n echo $myvar \n'> ./hello
+dialog --begin 0 1
+printf "verify rain...\n" > ./rain
+dialog --sleep 8
+printf "preparing to start drizzle...\n"> ./drizzle
+dialog --sleep 8
+printf "initial rain\n">  ./irain
+dialog --sleep 8
+printf "install rain\n"> ./israin
+dialog --sleep 8
+
+# After booting up the computer, what you are provided with is just a
+# blinking cursor. You then have to provide commands to the terminal. This is
+# of great advantage when it comes to ensuring security of the system. Note
+# that graphics and any other additional feature added to the operating system
+# are an advantage to the hacker as they can gain access into the system via
+# this feature. If you don’t the commands used on the command line, then
+# definitely you be stuck. However, the desktop versions of Linux supports
+# graphics.
+
+Booting="/up/" 
+ 
+if [[ $Booting ]]
+then
+      echo "$Booting the computer what you are provided"
+else
+     command -p $Botting
+     dialog --begin 1 2
+fi
+            
+      
+      
+                 
+      
+    
+
+
+           
+           

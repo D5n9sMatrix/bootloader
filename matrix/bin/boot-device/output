@@ -1,0 +1,7 @@
+#!/bin/sh
+# Boot Device
+# A Boot Device is any device that must be initialized prior to loading the O/S. This
+# includes the primary input device (keyboard), the primary output device (display), and
+# the initial program load device (floppy drive, hard drive, etc.). An IPL device is one
+# form of a boot device. 
+BootDevice=/boot/

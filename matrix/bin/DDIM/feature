@@ -1,0 +1,9 @@
+#!/bin/bash
+# DDIM
+# The Device Driver Initialization Model is a method of initializing an option ROM
+# whereby the option ROM is first copied to shadow RAM, then its initialization vector
+# is called with the shadow RAM write-enabled. When the option ROM completes
+# initialization it may dispose of code not needed at run-time by re-sizing the ROM
+# memory footprint. Finally, after the option ROM returns and the BIOS regains
+# control, the ROM is write-protected.
+DDIM=/ROM/

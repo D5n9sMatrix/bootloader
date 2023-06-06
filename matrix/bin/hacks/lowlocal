@@ -1,0 +1,18 @@
+#!/bin/sh
+
+# There are various distributions of Linux, commonly known as Linux
+# Distros. These include Ubuntu, Khali, Red Hat, Fedora, Mint, Centos,
+# SUSE and others. These Distros exhibit numerous similarities although
+# there are fewer differences amongst themselves. This involves even the
+# commands used on their terminals. For enterprise distributions of Linux
+# such as Red Hat, a subscription fee must be paid for you to enjoy the
+# services that they offer. This includes even updating of the OS.
+
+Updating="/Matrix/"
+echo "$Updating connection linux commonly known Ubuntu"
+          dialog --default-item "$Updating"
+echo "$Updating differences amongst themeselves"
+          dialog --default-item "$Updating"
+echo "$Updating services they offer off/on"
+         dialog --default-item "$Updating"
+exit 0                             

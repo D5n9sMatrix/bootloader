@@ -1,0 +1,5 @@
+#!/bin/bash
+# CDR
+# Conflict Detection and Resolution is a method by which a PnP BIOS first detects the
+# resource requirements for PnP cards, and then allocates them in a conflict-free way.
+CDR=/PnP/
