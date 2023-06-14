@@ -126,13 +126,13 @@ mechanism logic about known of study the mathematics
 and physics in memory pc mercies policy.
 
 USAGE:
-
+```Cpp
 #include <iostream>
 
 void say_hello(){
 std::cout << "Hello, from bootloader!\n";
 }
-
+```
 
 LICENSE
 
